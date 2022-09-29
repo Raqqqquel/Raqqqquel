@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel Rodríguez</h1>
-<h3 align="center">Programmer student</h3>
+<h3 align="center">Programming student</h3>
 
 - 🌱 I’m currently learning **to program, specifically I'm studying higher degrees in web and multiplatform application development.**
 
