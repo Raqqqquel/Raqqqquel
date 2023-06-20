@@ -7,7 +7,6 @@
 
 - 📫 You can contact me through my email: **raquelrodrim2000@gmail.com**
 
-- 💻 Check my portfolio at: https://raquelrodriguez.es/ 
 
 
 
