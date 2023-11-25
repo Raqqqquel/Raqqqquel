@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raquel Rodríguez</h1>
 <h3 align="center">Programming student</h3>
 
-- 🌱 I’m currently studying the **higher degree in web**.
+- 🌱 I’m currently studying the **higher degree in web development**.
 
 - 🖤 I love **video games, music, English, programming, web design and I enjoy learning something new every day!**
 
